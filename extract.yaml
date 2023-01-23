@@ -1,0 +1,5 @@
+# tours: is just a name we give but it should be reflected in .extract() function in main file as ["tours"]
+tours:
+#  This is an id of an element we want to access, we can find it Inspecting Elements in browser,
+#  also right click to the element, copy, Selector Path
+  css: '#displaytimer'
